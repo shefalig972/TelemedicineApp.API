@@ -14,4 +14,4 @@ TeleMedicine project is an application which Communicate between Patient , Docto
 5. Implementation of JTokens for security.
 
 # Front End
- Developed in Angular 8 environment.
+ Developed in React environment.
